@@ -13,7 +13,7 @@ An automated system that generates a daily digest of database and AI news from c
 
 ### Features
 
-- 🔍 **Curated Sources:** Brent Ozar, SQLServerCentral, Planet PostgreSQL, Crunchy Data, Anthropic, OpenAI
+- 🔍 **Curated Sources:** SQLServer websites, PostgreSQL, Crunchy Data, Anthropic, OpenAI
 - 📰 **Industry Pulse:** Top Hacker News stories about databases and AI
 - 💡 **Content Ideas:** 2-3 blog post ideas for your Substack
 - 🔄 **Deduplication:** Same story from multiple sources shown once
@@ -34,9 +34,9 @@ An automated system that generates a daily digest of database and AI news from c
 ### Sources Checked Daily
 
 **SQL Server:**
-- brentozar.com/archive
 - sqlserver.blog (Microsoft official)
 - SQLServerCentral.com
+- brentozar.com
 
 **PostgreSQL:**
 - Planet PostgreSQL
