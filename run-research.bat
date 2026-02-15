@@ -2,7 +2,7 @@
 REM Daily Database & AI News Research Script
 REM Runs at 5 AM to generate news digest
 
-set LOGFILE=C:\Haripriya\News\research-log.txt
+set LOGFILE=C:\Users\DELL\data-Engineering-Tools\NewsDeliveryUsingClaudeCode\research-log.txt
 
 echo. >> %LOGFILE%
 echo === Research started at %date% %time% === >> %LOGFILE%

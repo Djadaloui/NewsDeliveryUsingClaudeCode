@@ -10,7 +10,7 @@ from datetime import datetime
 import subprocess
 
 def main():
-    log_file = r"C:\Haripriya\News\research-log.txt"
+    log_file = r"C:\Users\DELL\data-Engineering-Tools\NewsDeliveryUsingClaudeCode\research-log.txt"
     date = datetime.now().strftime("%Y-%m-%d")
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -37,7 +37,7 @@ def main():
 
 4. Add "Content Ideas for Substack" section (2-3 blog post ideas)
 
-5. Save to: C:\\Haripriya\\News\\digest-{date}.md
+5. Save to: C:\\Users\\DELL\\data-Engineering-Tools\\NewsDeliveryUsingClaudeCode\\digest-{date}.md
 
 If a source is down, note "[Source] unavailable" and continue.
 

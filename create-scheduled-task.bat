@@ -3,7 +3,7 @@ REM Create scheduled task for daily research digest
 
 schtasks /create ^
   /tn "Daily Database Research" ^
-  /tr "powershell.exe -ExecutionPolicy Bypass -File C:\Haripriya\run-research.ps1" ^
+  /tr "powershell.exe -ExecutionPolicy Bypass -File C:\Users\DELL\data-Engineering-Tools\NewsDeliveryUsingClaudeCode\run-research.ps1" ^
   /sc daily ^
   /st 05:00 ^
   /ru "%USERNAME%" ^

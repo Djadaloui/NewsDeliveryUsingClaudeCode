@@ -1,7 +1,7 @@
 # Daily Database & AI News Research Script
 # Runs at 5 AM to generate news digest
 
-$logFile = "C:\Haripriya\News\research-log.txt"
+$logFile = "C:\Users\DELL\data-Engineering-Tools\NewsDeliveryUsingClaudeCode\research-log.txt"
 $date = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
 # Log start
